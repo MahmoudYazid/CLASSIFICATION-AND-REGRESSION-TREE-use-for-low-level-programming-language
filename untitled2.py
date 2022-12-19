@@ -119,7 +119,7 @@ def GenrateSplitArrayItems(LastItrNo):
 def GetTrgetedValue():
   CountValueEqual1=var.splitArr.count(1)
   
-  ArrayIndexFactorMin1=1
+  
   return CountValueEqual1
 
 
